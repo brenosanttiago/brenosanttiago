@@ -1,10 +1,24 @@
-# Languages and Tools
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32Cd32&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Breno+Santiago;I'm+18+years+old;I'm+from+Brazil;I'm+Systems+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+# Languages and Tools:
 <br>
 <br>
 <div align="center" >
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenosanttiago&show_icons=true&theme=gotham#gh-dark-mode-only"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosanttiago&theme=gotham&layout=compact"/>
 </div>
+<br>
+<br>
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=25&multiline=true&duration=4000&center=true&height=100&width=1000&lines=I+have+prominence+in+HTML5,+CSS3,+PHP,+Boostrap,+Java+and+MySQL;I'm+currently+studying+Dart+and+Python;I+also+had+the+opportunity+to+study+JavaScript+and+C)](https://git.io/typing-svg)
+
 <br>
 <br>
 <div align="center">
@@ -17,13 +31,12 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 <br>
 
-# Contacts
+# Contacts:
 <br>
 <br>
 <div align="center">
@@ -46,3 +59,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32Cd32&height=120&section=footer"/>
