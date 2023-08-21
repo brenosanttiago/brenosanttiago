@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Breno+Santiago;I'm+18+years+old;I'm+from+Brazil;I'm+Systems+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<img height="100em" widht="100em" src="https://thumbs.gfycat.com/WealthyBelovedGreatdane-max-1mb.gif"/>
+<img src="https://media.tenor.com/-MLRopnKJ1UAAAAC/keigo-ishiyama-anime.gif"/>
 </div>
 
 ## Languages and Tools:
