@@ -17,7 +17,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=25&multiline=true&duration=4000&center=true&height=100&width=1000&lines=I+have+prominence+in+HTML5,+CSS3,+PHP,+Boostrap,+Java+and+MySQL;I'm+currently+studying+Dart+and+Python;I+also+had+the+opportunity+to+study+JavaScript+and+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=25&multiline=true&duration=4000&center=true&height=100&width=1000&lines=I+have+prominence+in+HTML5,+CSS3,+PHP,+Boostrap,+Laravel,+Java+and+MySQL;I'm+currently+studying+Dart+and+Python;I+also+had+the+opportunity+to+study+JavaScript+and+C)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
