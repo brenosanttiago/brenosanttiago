@@ -26,7 +26,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=25&multiline=true&duration=4000&center=true&height=100&width=1000&lines=I+have+prominence+in+HTML5,+CSS3,+PHP,+Boostrap,+Laravel,+Java+and+MySQL;I'm+currently+studying+Dart+and+Python;I+also+had+the+opportunity+to+study+JavaScript+and+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=25&multiline=true&duration=4000&center=true&height=100&width=1000&lines=I+have+prominence+in+HTML5,+CSS3,+PHP,+Boostrap,+Laravel,+Java+and+MySQL;I'm+currently+studying+Dart+and+Python;I+also+had+the+opportunity+to+study+JavaScript,+WordPress+and+C)](https://git.io/typing-svg)
 
 
 <br>
