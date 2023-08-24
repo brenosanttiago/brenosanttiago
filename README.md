@@ -5,7 +5,7 @@
 <br>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ceghn7n6e4ispzqkaaxrxky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <div align="center">
 <img height="200em" widht="150em" src="https://media.tenor.com/6bAQkplsDscAAAAd/zoro-one-piece.gif"/>
@@ -65,6 +65,15 @@
   </a>
    <a href="mailto:brenos3santiago@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=21ceghn7n6e4ispzqkaaxrxky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
   </a>
 </div>
 
