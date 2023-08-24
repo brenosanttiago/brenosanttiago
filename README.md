@@ -72,4 +72,7 @@
   </a>
 </div>
 
+[![github contribution grid snake animation](https://raw.githubusercontent.com/brenosanttiago/brenosanttiago/main/github-contribution-grid-snake.svg)](https://github.com/brenosanttiago)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32Cd32&height=120&section=footer"/>
