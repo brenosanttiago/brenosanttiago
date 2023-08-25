@@ -2,14 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Breno+Santiago;I'm+18+years+old;I'm+from+Brazil;I'm+Systems+Development+student;I'm+studying+at+SENAI+in+the+3rd+semester;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
-<br>
-
-
-
 <div align="center">
-<img height="200em" widht="150em" src="https://media.tenor.com/6bAQkplsDscAAAAd/zoro-one-piece.gif"/>
-</div>
+  
+   <a  style="text-decoration: none;" href="https://discord.com/users/625412403911327759"><img src="https://lanyard-profile-readme.vercel.app/api/625412403911327759?bg=transparent"></a>
+ 
+</div> 
+
 
 <br>
 
@@ -22,11 +20,6 @@
 </div>
 <br>
 <br>
-
-
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=25&multiline=true&duration=4000&center=true&height=100&width=1000&lines=I+have+prominence+in+HTML5,+CSS3,+PHP,+Boostrap,+Laravel,+Java+and+MySQL;I'm+currently+studying+Dart+and+Python;I+also+had+the+opportunity+to+study+JavaScript,+WordPress+and+C)](https://git.io/typing-svg)
 
