@@ -11,7 +11,7 @@
 
 <br>
 
-## Languages and Tools:
+<h2 style="color: #FFFFFF;">Languages and Tools:</h2>
 <br>
 <br>
 <div align="center" >
@@ -43,7 +43,7 @@
 </div>
 <br>
 
-## Contacts:
+<h2 style="color: #FFFFFF;">Contacts:<h2>
 <br>
 <br>
 <div align="center">
