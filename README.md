@@ -11,7 +11,7 @@
 
 <h2 style="color: #FFFFFF;">Pages:<h2>
 <br>
-<img src="https://ibb.co/51fFvGZ" alt="Logo Santiago Livros" width="100%">
+<img src="https://i.ibb.co/51fFvGZ/logo-color.png" alt="Logo Santiago Livros" width="100%">
 <br>
 
 <br>
