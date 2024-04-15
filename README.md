@@ -7,7 +7,11 @@
    <a  style="text-decoration: none;" href="https://discord.com/users/625412403911327759"><img src="https://lanyard-profile-readme.vercel.app/api/625412403911327759?bg=transparent"></a>
  
 </div> 
+<br>
 
+<h2 style="color: #FFFFFF;">Pages:<h2>
+<br>
+<br>
 
 <br>
 
