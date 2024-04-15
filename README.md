@@ -9,7 +9,7 @@
 </div> 
 <br>
 
-<h2 style="color: #FFFFFF;">Pages:<h2>
+<h2 style="color: #FFFFFF;">Page online:<h2>
 <br>
 <a href="https://brenosanttiago.github.io/santiagolivros/">
 <img src="https://i.ibb.co/51fFvGZ/logo-color.png" alt="Logo Santiago Livros" width="20%">
