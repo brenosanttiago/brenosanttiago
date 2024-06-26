@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=21ceghn7n6e4ispzqkaaxrxky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+    <img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ceghn7n6e4ispzqkaaxrxky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
   </a>
 </div>
 
