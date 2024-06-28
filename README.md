@@ -9,18 +9,21 @@
 </div> 
 <br>
 
-<h2 style="color: #FFFFFF;">Page online:<h2>
+<h2 style="color: #FFFFFF;">Page online:</h2>
 <br>
+
 <a href="https://brenosanttiago.github.io/santiagolivros/">
-<img src="https://i.ibb.co/51fFvGZ/logo-color.png" alt="Logo Santiago Livros" width="20%">
+<img src="https://github.com/brenosanttiago/santiagolivros/blob/main/images/logo/santiago-logo-zip-file/png/logo-color.png" alt="Logo Santiago Livros" width="20%">
 </a>
 
+
+<br>
 <br>
 
 <h2 style="color: #FFFFFF;">Languages and Tools:</h2>
 <br>
 <br>
-<div align="center" >
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenosanttiago&show_icons=true&text_color=D3D3D3&theme=shadow_green#gh-dark-mode-only"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosanttiago&text_color=D3D3D3&theme=shadow_green&layout=compact"/>
 </div>
