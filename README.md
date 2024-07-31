@@ -9,7 +9,7 @@
 </div> 
 <br>
 
-<h2 style="color: #FFFFFF;">Page online:</h2>
+<h2 style="color: #FFFFFF;">Pages online:</h2>
 <br>
 
 
