@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://brenosanttiago.github.io/supermario/" target="_blanck">
-<img src="https://github.com/brenosanttiago/supermario/img/logo.png" alt="Logo SuperMario" width="20%">
+<img src="https://github.com/brenosanttiago/supermario/blob/main/img/logo.png" alt="Logo SuperMario" width="20%">
 </a>
 
 <br>
