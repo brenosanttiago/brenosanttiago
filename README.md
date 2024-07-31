@@ -16,6 +16,9 @@
 <img src="https://github.com/brenosanttiago/santiagolivros/blob/main/images/logo/santiago-logo-zip-file/png/logo-color.png" alt="Logo Santiago Livros" width="20%">
 </a>
 
+<a href="https://brenosanttiago.github.io/supermario/" target="_blanck">
+<img src="https://github.com/brenosanttiago/supermario/img/logo.png" alt="Logo SuperMario" width="20%">
+</a>
 
 <br>
 <br>
@@ -73,11 +76,5 @@
 
 <br>
 <br>
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ceghn7n6e4ispzqkaaxrxky&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-  </a>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32Cd32&height=120&section=footer"/>
