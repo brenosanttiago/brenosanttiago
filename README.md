@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=30&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Breno+Santiago;I'm+18+years+old;I'm+from+Brazil;I'm+Systems+Development+Technician;I+am+also+study+Administration+at+UNIME+in+the+4rd+semester;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  
-   <a  style="text-decoration: none;" href="https://discord.com/users/625412403911327759"><img src="https://lanyard-profile-readme.vercel.app/api/625412403911327759?bg=transparent"></a>
- 
-</div> 
 <br>
 
 <h2 style="color: #FFFFFF;">Pages online:</h2>
