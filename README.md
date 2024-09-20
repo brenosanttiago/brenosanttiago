@@ -13,7 +13,7 @@
 <img src="https://github.com/brenosanttiago/santiagolivros/blob/main/images/logo/santiago-logo-zip-file/png/logo-color.png" alt="Logo Santiago Livros" width="20%">
 </a>
 
-<a href="https://brenosanttiago.github.io/supermario/" target="_blank">
+<a href="https://brenosanttiago.github.io/minigame-supermario/" target="_blank">
   <img src="https://github.com/brenosanttiago/supermario/blob/main/img/dance.gif" alt="Logo SuperMario" width="20%">
   </a>
 
