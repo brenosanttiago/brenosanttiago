@@ -17,6 +17,10 @@
   <img src="https://github.com/brenosanttiago/supermario/blob/main/img/dance.gif" alt="Logo SuperMario" width="20%">
   </a>
 
+<a href="https://brenosanttiago.github.io/supermario/" target="_blank">
+  <img src="https://github.com/brenosanttiago/minigame-supermario/images/mario.gif" alt="Gif Mario" width="20%">
+  </a>
+
 
 <br>
 <br>
