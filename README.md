@@ -22,7 +22,7 @@
   </a>
 
   <a href="https://brenosanttiago.github.io/portfolio/" target="_blank">
-  <img src="https://github.com/brenosanttiago/portfolio/blob/main/immg/planta.png" alt="Planta" width="20%">
+  <img src="https://github.com/brenosanttiago/portfolio/blob/main/img/planta.png" alt="Planta" width="20%">
   </a>
 
 
