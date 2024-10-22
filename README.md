@@ -21,6 +21,10 @@
   <img src="https://github.com/brenosanttiago/minigame-supermario/blob/main/images/mario.gif" alt="Gif Mario" width="20%">
   </a>
 
+  <a href="https://brenosanttiago.github.io/portfolio/" target="_blank">
+  <img src="https://github.com/brenosanttiago/portfolio/blob/main/immg/planta.png" alt="Planta" width="20%">
+  </a>
+
 
 <br>
 <br>
