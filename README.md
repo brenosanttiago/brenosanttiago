@@ -30,14 +30,9 @@
 <br>
 
 <h2 style="color: #FFFFFF;">Languages and Tools:</h2>
+
 <br>
-<br>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenosanttiago&show_icons=true&text_color=D3D3D3&theme=shadow_green#gh-dark-mode-only"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosanttiago&text_color=D3D3D3&theme=shadow_green&layout=compact"/>
-</div>
-<br>
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32Cd32&size=25&multiline=true&duration=4000&center=true&height=100&width=1000&lines=I+have+prominence+in+HTML5,+CSS3,+PHP,+Boostrap,+Laravel,+Java+and+MySQL;I'm+currently+studying+Flutter+and+Python;I+also+had+the+opportunity+to+study+JavaScript,+WordPress+and+C)](https://git.io/typing-svg)
 
